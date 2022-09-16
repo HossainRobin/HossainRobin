@@ -52,7 +52,7 @@ I have very advanced knowledge of following:
 ---
 
 
-<p align:center>
+<p align="center">
 ### 👨‍💻 Github Status
 </p>
 <br />
