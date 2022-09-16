@@ -22,8 +22,6 @@ I have very advanced knowledge of following:
 .     -->
    
 
-![HossainRobin's Stats](https://github-readme-stats.vercel.app/api?username=HossainRobin&theme=default&show_icons=true&hide_border=false&count_private=true)
-
 
 
 
@@ -58,27 +56,10 @@ I have very advanced knowledge of following:
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
 
+<hr>
 
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-<p align="center">
-
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
-
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
-
-
+![HossainRobin's Stats](https://github-readme-stats.vercel.app/api?username=HossainRobin&theme=default&show_icons=true&hide_border=false&count_private=true)
 
 
 
