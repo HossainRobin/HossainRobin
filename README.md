@@ -55,7 +55,7 @@ I have very advanced knowledge of following:
 
 <br />
 <div style="text-align:center">
-  <h2 align="center">👨‍💻 Projects</h2>
+  <h2>👨‍💻 Projects</h2>
   <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='center'>
 
 <!-- ![HossainRobin's Stats](https://github-readme-stats.vercel.app/api?username=HossainRobin&theme=default&show_icons=true&hide_border=false&count_private=true) -->
