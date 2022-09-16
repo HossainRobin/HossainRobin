@@ -56,15 +56,10 @@ I have very advanced knowledge of following:
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
 
-<hr>
+
 
 
 ![HossainRobin's Stats](https://github-readme-stats.vercel.app/api?username=HossainRobin&theme=default&show_icons=true&hide_border=false&count_private=true)
-
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
 
 
 
