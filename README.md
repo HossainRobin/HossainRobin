@@ -66,11 +66,11 @@ I have very advanced knowledge of following:
  <h2 align="center">Projects</h2>
 </p>
 
-> ## Youtube Clone  <a target="_blank" href="https://robin-tube.netlify.app/">(Demo)</a>
+> # Youtube Clone  <a target="_blank" href="https://robin-tube.netlify.app/">(Demo)</a>
 
 <img src="https://user-images.githubusercontent.com/88034943/190811623-a4e631c9-a387-4413-8528-9af6d2466962.png" width="100%" />
 
-# Technology Use 🌐 
+### Technology Use 🌐 
 <div>
  
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
