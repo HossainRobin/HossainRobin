@@ -70,9 +70,12 @@ I have very advanced knowledge of following:
 
 <img src="https://user-images.githubusercontent.com/88034943/190811623-a4e631c9-a387-4413-8528-9af6d2466962.png" width="100%" />
 
-
-
-
+## Technology Use 🌐
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <hr>
 
 
@@ -81,7 +84,7 @@ I have very advanced knowledge of following:
 <img src="https://user-images.githubusercontent.com/88034943/190814166-dea37959-7865-4df3-985d-8a4783cce169.png" width="100%" />
 
 
- 🌐
+ 
 
 <hr>
   
@@ -91,7 +94,8 @@ I have very advanced knowledge of following:
 
 ### Tech & Tools Preference
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
