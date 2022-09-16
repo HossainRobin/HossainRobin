@@ -21,39 +21,8 @@ I have very advanced knowledge of following:
   
 .     -->
    
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&hide=["stars"]&show_icons=true)
 
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
-
-<hr>
-
-
-
-<br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
+![HossainRobin's Stats](https://github-readme-stats.vercel.app/api?username=HossainRobin&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 <br/>
 
