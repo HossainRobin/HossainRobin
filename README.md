@@ -54,7 +54,7 @@ I have very advanced knowledge of following:
 
 
 <br />
-<div>
+<div style="text-align:center">
   <h2 align="center">👨‍💻 Projects</h2>
   <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='center'>
 
@@ -72,9 +72,6 @@ I have very advanced knowledge of following:
 
 <!--Youtube -->
 
-<p align="center">
- <h2 align="center">Projects</h2>
-</p>
 
 > ## Youtube Clone  <a target="_blank" href="https://robin-tube.netlify.app/">(Demo)</a>
 
