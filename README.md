@@ -4,11 +4,8 @@
 
 ### 👋  Hello World !  <img src="https://user-images.githubusercontent.com/88034943/190770386-6588329f-156b-4708-a633-b1a7729387f9.gif" width="24px">
 ### <h2> I'm Robin Hossain</h2>
-
   
-:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
-  
-I am a Final Year Computer Engineering Student at College of Engineering Chengannur. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
+I am a Second Year Computer Engineering Student at University Of Information Technology & Science. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
 
 - 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python.
 - 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
