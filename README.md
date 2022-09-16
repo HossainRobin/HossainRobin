@@ -5,7 +5,7 @@
 ### 👋  Hello World !  <img src="https://user-images.githubusercontent.com/88034943/190770386-6588329f-156b-4708-a633-b1a7729387f9.gif" width="24px">
 ### <h2> I'm Robin Hossain</h2>
   
-I am a Second Year Computer Engineering Student at University Of Information Technology & Science. I have worked in a Web Agency for the last 2 years. I have excellent interpersonal skills, consistently building rapport with clients and coworkers, and have advanced knowledge and experience with front-end and back-end web technologies such as HTML/XHTML, Bootstrap, CSS, XML, JSP and JavaScript with Ajax, JSON and jquery, WordPress, Laravel.
+I am a Second Year Computer Engineering Student at University Of Information Technology & Science. I have worked in a Web Agency for the last 2 years. I have excellent interpersonal skills, consistently building rapport with clients and coworkers, and have advanced knowledge and experience with front-end and back-end web technologies such as HTML/XHTML, Bootstrap, CSS, XML, JSP and JavaScript with Ajax, JSON and jquery, WordPress, Laravel, React, Node.js, Express.js, MongoDB, React native.
 
 I have very advanced knowledge of following:
 * Custom Web Design and Development
