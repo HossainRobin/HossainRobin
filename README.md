@@ -22,7 +22,7 @@ I have very advanced knowledge of following:
 .     -->
    
 
-![HossainRobin's Stats](https://github-readme-stats.vercel.app/api?username=HossainRobin&theme=default&show_icons=true&hide_border=true&count_private=true)
+![HossainRobin's Stats](https://github-readme-stats.vercel.app/api?username=HossainRobin&theme=default&show_icons=true&hide_border=false&count_private=true)
 
 <br/>
 
