@@ -15,7 +15,7 @@ I have very advanced knowledge of following:
 * HTML/CSS/Responsive Design
 * Clone any website using WordPress/React/Laravel
 * Create Ecommerce Website like Amazon 
-* And many more
+* And much more
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
