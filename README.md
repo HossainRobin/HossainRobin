@@ -51,17 +51,18 @@ I have very advanced knowledge of following:
 
 ---
 
-<h2 align="center">👨‍💻 Github Status</h2>
+
 
 <br />
 <div>
-  <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+  <h2 align="center">👨‍💻 Projects</h2>
+  <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='center'>
 
 <!-- ![HossainRobin's Stats](https://github-readme-stats.vercel.app/api?username=HossainRobin&theme=default&show_icons=true&hide_border=false&count_private=true) -->
 
  </div>
 
-<hr>
+<br><br><br>
 
 
 
