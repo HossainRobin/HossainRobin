@@ -11,11 +11,11 @@ I have very advanced knowledge of following:
 * Custom Web Design and Development
 * Customizing Templates
 * Plugin intergration and customization
-* PHP
+* Dynamic website PHP/Laravel
 * HTML/CSS/Responsive Design
 * Clone any website using WordPress/React/Laravel
 * Create Ecommerce Website like Amazon 
-* And much more
+* Website Bug Fix and much more
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
