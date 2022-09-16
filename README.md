@@ -51,10 +51,8 @@ I have very advanced knowledge of following:
 
 ---
 
+<h2 align="center">👨‍💻 Github Status</h2>
 
-<p align="center">
-### 👨‍💻 Github Status
-</p>
 <br />
 <div>
   <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
@@ -74,7 +72,6 @@ I have very advanced knowledge of following:
 <!--Youtube -->
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Projects</h2>
 </p>
 
