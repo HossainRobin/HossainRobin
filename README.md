@@ -66,7 +66,7 @@ I have very advanced knowledge of following:
  <h2 align="center">Projects</h2>
 </p>
 
-> Youtube Clone  <a href="https://robin-tube.netlify.app/">(Demo)</a>
+> Youtube Clone  <a target="_blank" href="https://robin-tube.netlify.app/">(Demo)</a>
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
