@@ -1,8 +1,8 @@
 
-<img align="center" alt="Code gif" src="https://user-images.githubusercontent.com/88034943/190756638-e393a1bd-d099-4f17-93ae-a47357b3dcc0.gif" width="100%" style="margin-top:10px" />
+<img align="center" alt="Code gif" src="https://user-images.githubusercontent.com/88034943/190756638-e393a1bd-d099-4f17-93ae-a47357b3dcc0.gif" width="100%" />
 
 
-### 👋  Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋  Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" style="margin-top:10px">
 ### <h2> I'm Robin</h2>
 
   
