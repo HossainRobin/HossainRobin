@@ -70,9 +70,9 @@ I have very advanced knowledge of following:
 
 <img src="https://user-images.githubusercontent.com/88034943/190811623-a4e631c9-a387-4413-8528-9af6d2466962.png" width="100%" />
 
-
+# Technology Use 🌐 
 <div>
- ### Technology Use 🌐 
+ 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
