@@ -13,12 +13,7 @@ I have very advanced knowledge of following:
 * Plugin intergration and customization
 * PHP
 * HTML/CSS/Responsive Design
-* Bootstrap
-* JQuery
-* PSD to HTML
-* PSD to Wordpress
-
-
+* Clone any website using WordPress/React
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
