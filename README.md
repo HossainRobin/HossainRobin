@@ -69,7 +69,7 @@ I have very advanced knowledge of following:
 <!-- Projects -->
 
 <!--Youtube -->
-<h2 align="center">👨‍💻 Projects</h2> <br><br>
+<h2 align="center">👨‍💻 Projects</h2> <br>
 
 > ## Youtube Clone  <a target="_blank" href="https://robin-tube.netlify.app/">(Demo)</a>
 
