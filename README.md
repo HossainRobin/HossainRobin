@@ -66,7 +66,7 @@ I have very advanced knowledge of following:
  <h2 align="center">Projects</h2>
 </p>
 
-> Youtube Clone  [Demo]([https://softnep.com](https://robin-tube.netlify.app/)
+> Youtube Clone  <a href="https://robin-tube.netlify.app/">(Demo)</a>
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
